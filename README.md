@@ -2,16 +2,16 @@ Bienvenido al proyecto de crud en Python con FastAPI y MongoDB
 
 
 Requirements:
- Python 3.10
- FastAPI 
- uvicorn
- pymongo
+ Python 3.10,
+ FastAPI, 
+ uvicorn,
+ pymongo,
 
  Tools:
 
- Visual Studio Code
- Thunder Client
- MongoDB for VS Code
+ Visual Studio Code,
+ Thunder Client,
+ MongoDB for VS Code,
 
  Data Base:
  https://www.mongodb.com/try/download/community
