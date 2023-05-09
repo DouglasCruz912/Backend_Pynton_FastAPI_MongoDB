@@ -17,7 +17,7 @@ class UserDB(User):
 
 
 users_db = {
-    "mouredev": {
+    "douglasdev": {
         "username": "DgS",
         "full_name": "DouglasJose",
         "email": "douglas@gmail.com",
@@ -25,7 +25,7 @@ users_db = {
         "password": "123456"
     },
 
-    "mouredev2": {
+    "douglasdev2": {
         "username": "DgS1",
         "full_name": "DouglasCruz",
         "email": "douglascruz@gmail.com",
