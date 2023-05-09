@@ -5,7 +5,10 @@ Requirements:
  Python 3.10,
  FastAPI, 
  uvicorn,
- pymongo
+ pymongo,
+ passlib,
+ python-jose,
+ python-multipart
 
  Tools:
 
