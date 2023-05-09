@@ -18,6 +18,3 @@ app.mount("/static", StaticFiles(directory="static"), name="static")
 async def root():
     return "Hola FastAPI"
 
-@app.get("/url")
-async def url():
-    return { "url":"https://mouredev.com/python" }
